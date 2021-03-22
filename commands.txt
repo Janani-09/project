@@ -1,3 +1,2 @@
-Commands of my git file
+Commands
 
-1.
